@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+html{
+    font-family:'Courier New', Courier, monospace ;
+}
+
+body{
+    width: 800px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: white
+}
+
+header{
+    background-color: rgb(42, 93, 165);
+    padding: 16px;
+}
+
+header h1{
+    color: white;
+}
+
+nav{
+    border: 1px solid black;
+}
+
+nav ul li{
+    background-color: rgb(127, 157, 255);
+    text-align: center;
+    padding: 8px;
+}
+
+
+
+
+
